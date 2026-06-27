@@ -1,10 +1,12 @@
-# Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hi there<img src="https://media.giphy.com/media/dHn6URWMwrgoLkGZR2/giphy.gif" width="28">
 
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masaki130&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masaki130&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masaki130&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masaki130&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masaki130&theme=default&utcOffset=9)
+-->
 
 <picture>
   <source
