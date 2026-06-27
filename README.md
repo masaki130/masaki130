@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/1JSirM9CWto4poulJi/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/6d7ppEQhxJMfDen8Ak/giphy.gif" width="50">
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masaki130&theme=default)
