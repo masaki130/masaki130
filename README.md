@@ -1,4 +1,8 @@
-# Hello World ! <img src="https://media.giphy.com/media/6d7ppEQhxJMfDen8Ak/giphy.gif" width="40">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/6d7ppEQhxJMfDen8Ak/giphy.gif" width="40">
+  &nbsp;Hello World!&nbsp;
+  <img src="https://media.giphy.com/media/6d7ppEQhxJMfDen8Ak/giphy.gif" width="40">
+</h1>
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masaki130&theme=default)
